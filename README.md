@@ -35,6 +35,7 @@ It calls `git-guidelines`, `programming-best-practices` and `attack-protection`.
 | `skills/shorts-guidelines/` | The `shorts-guidelines` skill. |
 | `skills/prs-fixes/` | PR helper: apply review feedback and resolve threads. |
 | `skills/prs-reviews/` | PR helper: post a Requested Changes review. |
+| `CHANGELOG.md` | Notable changes, in Keep a Changelog format. |
 | `AGENTS.md` | Rules for AI agents that edit this repo. |
 
 The two PR helpers ship in every repo of this family:
