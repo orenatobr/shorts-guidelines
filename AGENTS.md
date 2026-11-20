@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo packages the `shorts-guidelines` agent skill, plus the `prs-fixes` and `prs-reviews` PR helper skills. Agent skill for a daily autonomous two-agent routine on the publish-shorts project.
+This repo packages the `shorts-guidelines` agent skill. Agent skill for a daily autonomous two-agent routine on the publish-shorts project.
 
 ## Layout
 
